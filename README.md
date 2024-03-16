@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+in this project i implemented bloc state managemnt creating simple counter as learning perspective.
+
 
 <table>
   <tr>
